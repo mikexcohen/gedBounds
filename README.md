@@ -6,3 +6,6 @@ Publication pdf is one of the files listed above. Or see:
 https://www.sciencedirect.com/science/article/abs/pii/S0165027020303721
 
 https://www.biorxiv.org/content/10.1101/2020.07.09.195784v2
+
+## See also a YT talk about the method:
+https://www.youtube.com/watch?v=REt4v3owrCs&ab_channel=MikeXCohen
